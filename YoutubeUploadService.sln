@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeUploadService", "YoutubeUploadService\YoutubeUploadService.csproj", "{DCAE7B5A-5936-46C5-AC49-23BA065BB672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAE7B5A-5936-46C5-AC49-23BA065BB672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAE7B5A-5936-46C5-AC49-23BA065BB672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAE7B5A-5936-46C5-AC49-23BA065BB672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAE7B5A-5936-46C5-AC49-23BA065BB672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCE2782-08B9-47AE-8650-0F5F30B28192}
+	EndGlobalSection
+EndGlobal
